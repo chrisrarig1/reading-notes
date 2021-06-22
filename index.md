@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+Hi!! :vulcan_salute: My name is Chris Rarig and I am student at Code Fellows seeking to become a Software Engineer
+[Github Profile]https://github.com/chrisrarig1
 
-You can use the [editor on GitHub](https://github.com/chrisrarig1/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+On this page I will be posting my reading notes as I progress through my eductaion at *Code Fellows*.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this first lesson we talked about having a growth mindset and as a result I have developed my own definition:
 
-### Markdown
+-**Growth Mind Set** to me is having the ability to embrace change and challenges while open yourself up to interactions
+with other learners.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is something I have struggled with as my first reaction ~in the past~. I have learned to go through a checklist
+to calm my reaction
 
-```markdown
-Syntax highlighted code block
+1. Breathe..change is good
+2. Remember challenges allow #growth#
+3. People want to help
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chrisrarig1/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+More pages to come :metal: :monocle_face:
