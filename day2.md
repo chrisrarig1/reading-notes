@@ -4,12 +4,12 @@
       to create a website.
   
   ## Features
-    -*Code Completion*: suggetsions to finish coding. Allows for fewer keystrokes
+    - *Code Completion*: suggetsions to finish coding. Allows for fewer keystrokes
                         **Speed**
                         ![Turtle](https://thefunnyplace.org/wp-content/uploads/2015/02/Funny-speed-turtle-with-snail.jpg)
-    -*Syntax Highlighting*: Allows you to easily differentiate coding terms
-    -*Multiple Themes*: Looks sharper and saves you eyes!!
-    -*Extensions!!!*: Add-ons you can install to make coding easier and quicker
+    - *Syntax Highlighting*: Allows you to easily differentiate coding terms
+    - *Multiple Themes*: Looks sharper and saves you eyes!!
+    - *Extensions!!!*: Add-ons you can install to make coding easier and quicker
                       
 
 
