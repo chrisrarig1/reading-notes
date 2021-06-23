@@ -1,4 +1,5 @@
 # Text Editors
+
    ## What is a Text Editor?
    
       It is a program that helps write text especially text that allows you
