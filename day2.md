@@ -17,24 +17,35 @@
     Already uploaded on your Windows machine, but lacks the perks of most editors
     Barebones!!!
  
- ##Other Editors
+ ## Other Editors
  
    1. NotePad++
+   
             - Windows Only
             - Popular with many web developers
+            
    2. ~Text Wrangle~/ BBEdit
+   
             - Mac Only
             - Not Free!!!!
+            
    3. Visual Studio Code
+  
             - Code Fellows reccomends
             - Free!!!!
+            
    4. Atom
+   
             - Github produced...reputable
             - Free!!!!
+            
    5. Brackets
+   
             - Base only supports HTML,CSS,and Javascript
             - Free!!!!
+            
    6. Sublime Text
+   
             - Gives you everything you need in a text editor
             - Not Free!!!! 
    
