@@ -27,7 +27,7 @@
             - Windows Only
             - Popular with many web developers
             
-   2. ~Text Wrangle~/ BBEdit
+   2. ~~Text Wrangle~~/ BBEdit
    
             - Mac Only
             - Not Free!!!!
