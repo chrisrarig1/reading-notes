@@ -7,10 +7,10 @@
   
   ## Features
   
-      * Code Completion *: suggetsions to finish coding. Allows for fewer keystrokes **Speed**                 
-    *Syntax Highlighting*: Allows you to easily differentiate coding terms
-    *Multiple Themes*: Looks sharper and saves you eyes!!
-    *Extensions!!!*: Add-ons you can install to make coding easier and quicker
+    _Code Completion_ : suggetsions to finish coding. Allows for fewer keystrokes **Speed**                 
+    _Syntax Highlighting_ : Allows you to easily differentiate coding terms
+    _Multiple Themes_ : Looks sharper and saves you eyes!!
+    _Extensions!!!_ : Add-ons you can install to make coding easier and quicker
                       
  ## Notepad
       
