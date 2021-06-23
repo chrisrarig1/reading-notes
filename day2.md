@@ -7,11 +7,11 @@
   
 ## Features
   
-   **Code Completion** : suggetsions to finish coding. Allows for fewer keystrokes **Speed**     
+   **Code Completion** : suggestions to finish coding. Allows for fewer keystrokes **Speed**     
    
-   **Syntax Highlighting** : Allows you to easily differentiate coding terms
+   **Syntax Highlighting** : This allows you to easily differentiate coding terms
    
-   **Multiple Themes** : Looks sharper and saves you eyes!!
+   **Multiple Themes** : Looks sharper and saves your eyes!!
    
    **Extensions!!!** : Add-ons you can install to make coding easier and quicker
                       
