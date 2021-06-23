@@ -1,11 +1,11 @@
 # Text Editors
 
-   ## What is a Text Editor?
+## What is a Text Editor?
    
       It is a program that helps write text especially text that allows you
       to create a website.
   
-  ## Features
+## Features
   
    **Code Completion** : suggetsions to finish coding. Allows for fewer keystrokes **Speed**     
    
@@ -15,12 +15,12 @@
    
    **Extensions!!!** : Add-ons you can install to make coding easier and quicker
                       
- ## Notepad
+## Notepad
       
     Already uploaded on your Windows machine, but lacks the perks of most editors
     Barebones!!!
  
- ## Other Editors
+## Other Editors
  
    1. NotePad++
    
