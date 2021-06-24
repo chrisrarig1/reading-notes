@@ -19,6 +19,7 @@
       
     Already uploaded on your Windows machine, but lacks the perks of most editors
     Barebones!!!
+   ![Bones](https://www.tattooforaweek.com/images/dancing-skeleton-fake-tattoos_med.jpeg)
  
 ## Other Editors
  
@@ -34,7 +35,7 @@
             
    3. Visual Studio Code
   
-            - Code Fellows reccomends
+            - Code Fellows recommends
             - Free!!!!
             
    4. Atom
