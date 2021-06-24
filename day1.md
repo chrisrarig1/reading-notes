@@ -9,6 +9,6 @@ also use markdown to create lists and tables.
 - [ ] Repeat
 
 It also allows you to use ~strike-through~ to either mark something off your list or bring attention to a word. Using these lists can be very beneficial to a work environment
-or just a general reminder of things to do. Through this formatting language, you even have the ability to bring something to someone's attention or mention them similar to 
-Instagram @. It even supports emojis!!! :bearded_person:.
+or just a general reminder of things to do. Through this formatting language, you even can bring something to someone's attention or mention them similar to *Instagram* @. 
+It even supports emojis!!! :bearded_person:.
 
