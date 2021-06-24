@@ -50,5 +50,5 @@ Remember this process for changes :
 
 - [ ] `git status` Allows you to see if changes have been made to a file
 - [ ] `git add filename` Tracks the file with changes
-- [ ] `git commit -m(statement of change)`
+- [ ] `git commit -m"statement of change"`
 - [ ] `git push origin master` pushes changes to git
