@@ -8,6 +8,6 @@ On this page, I will be posting my reading notes as I progress through my educta
 
 1. [Mastering Markdown](https://chrisrarig1.github.io/reading-notes/day1.html)
 2. [Text Editors](https://chrisrarig1.github.io/reading-notes/day2.html)
-3. [Day 3](https://chrisrarig1.github.io/reading-notes/day3.html)
+3. [Git](https://chrisrarig1.github.io/reading-notes/day3.html)
 
 More pages to come :metal: :monocle_face:

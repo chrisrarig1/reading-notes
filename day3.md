@@ -41,8 +41,8 @@
 ## Initial Customization
 
 - There are many steps for customization after install. I have included links below for reference.
-[Initial Customization](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
-[Getting Started](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+- [Initial Customization](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+- [Getting Started](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
 # Tips
 
