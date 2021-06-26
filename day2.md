@@ -1,9 +1,8 @@
 # Text Editors
 
 ## What is a Text Editor?
-   
-      It is a program that helps write text especially text that allows you
-      to create a website.
+
+- It is a program that helps write text especially text that allows you to create a website.
   
 ## Features
   
@@ -17,41 +16,41 @@
                       
 ## Notepad
       
-    Already uploaded on your Windows machine, but lacks the perks of most editors
-    Barebones!!!
-   ![Bones](https://www.tattooforaweek.com/images/dancing-skeleton-fake-tattoos_med.jpeg)
+- Already uploaded on your Windows machine, but    lacks the perks of most editors Barebones!!!
+
+![Bones](https://www.tattooforaweek.com/images/dancing-skeleton-fake-tattoos_med.jpeg)
  
 ## Other Editors
  
    1. NotePad++
    
-            - Windows Only
-            - Popular with many web developers
+      - Windows Only
+      - Popular with many web developers
             
    2. ~~Text Wrangle~~/ BBEdit
    
-            - Mac Only
-            - Not Free!!!!
+      - Mac Only
+      - Not Free!!!!
             
    3. Visual Studio Code
   
-            - Code Fellows recommends
-            - Free!!!!
+      - Code Fellows recommends
+      - Free!!!!
             
    4. Atom
    
-            - Github produced...reputable
-            - Free!!!!
+      - Github produced...reputable
+      - Free!!!!
             
    5. Brackets
    
-            - Base only supports HTML,CSS,and Javascript
-            - Free!!!!
+      - Base only supports HTML,CSS,and Javascript
+      - Free!!!!
             
    6. Sublime Text
    
-            - Gives you everything you need in a text editor
-            - Not Free!!!! 
+      - Gives you everything you need in a text editor
+      - Not Free!!!! 
    
 
 ![Words](https://3erc1e4bvanrdzas82cngnw1-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/00-little-known-words-that-will-help-you-win-Scrabble-GettyImages-585792794-770.jpg)
