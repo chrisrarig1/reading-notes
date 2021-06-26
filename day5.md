@@ -3,7 +3,7 @@
 - As described in class this is the interior designer
 of web pages/ A rule based language where you define the rules
 
-## Differnce between CSS and HTML
+## Difference between CSS and HTML
 
 - **HTML**: Structure of the document. Very basic design. The frame of your website.
 - **CSS**: The style and proper layout. Puts feathers
@@ -17,7 +17,7 @@ on your featherless baby bird (101 analogy).
 
 ## How to add CSS to your page
 
-- Industry standards incourage the use of external CSS. This is done by creating an CSS file and linking it to your HTML page as shown below:
+- Industry standards encourage the use of external CSS. This is done by creating an CSS file and linking it to your HTML page as shown below:
 `<!DOCTYPE html>`
 `<html>`
 
@@ -26,4 +26,8 @@ on your featherless baby bird (101 analogy).
     `<link rel="stylesheet" href="style.css">`
 `</head>`
 
+# Helpful Links:
+
+- [W3Schools: Color](https://www.w3schools.com/cssref/pr_text_color.asp)
+- [W3Schools: Add CSS](https://www.w3schools.com/css/css_howto.asp)
 
