@@ -17,14 +17,14 @@
 
 ## For Statements
 
-- This loop contiunes to run until a certain condition declared in the code is proven false.
+- This loop continues to run until a certain condition declared in the code is proven false.
 
 `for(let ii = 0; ii < 10; ii++){`
   `console.log("ii number " + ii);}`
 
-- In the example above the statement will continue to run until `ii` is greater than or eqaul to 10.
+- In the example above the statement will continue to run until `ii` is greater than or equal to 10.
 - In this code we show 3 expressions
-    1. Initial: `let ii = 0;` the intial number starts at zero
+    1. Initial: `let ii = 0;` the initial number starts at zero
     2. Condition: `ii < 10;` the number must remain below 10
     3. Increment: `ii++` increases by 1 after each pass
 
@@ -39,7 +39,7 @@
 - In the example above this code will run as long as the number is less than number. 
 
 - In this code we show 2 expressions
-    1. Conditon: `(number < 10)` number must be less than 10 for this loop to continue
+    1. Condition: `(number < 10)` number must be less than 10 for this loop to continue
     2. Statement: `number = number + 1` the number will increase by 1 each run through.
 
 # Helpful Links
