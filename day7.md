@@ -12,6 +12,7 @@
     1. The name of the function
     2. The parameters of the function
     3. The JavaScript that the function performs
+    4. The return
 - Here is an example from my code:
 
 `function getname(){`
