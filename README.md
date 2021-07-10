@@ -1,10 +1,10 @@
 ## About Me
 
-    Hi!! My name is Chris Rarig and I am a student at Code Fellows seeking to become a Software Engineer. Currently I am a Senior Mortgage Data Specialist for Zillow. I am looking forward to learning new code and developing the skills to succeed
+- Hi!! My name is Chris Rarig and I am a student at Code Fellows seeking to become a Software Engineer. Currently I am a Senior Mortgage Data Specialist for Zillow. I am looking forward to learning new code and developing the skills to succeed
 
 [Github Profile](https://github.com/chrisrarig1)
 
-On this page, I will be posting my reading notes as I progress through my eductaion at *Code Fellows*.
+- On this page, I will be posting my reading notes as I progress through my eductaion at *Code Fellows*.
 
 # Code 102 Reading Notes
 
