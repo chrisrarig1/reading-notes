@@ -17,7 +17,7 @@
 # Code 201 Reading Notes
 
 1. [Introductory HTML and JavaScript](https://chrisrarig1.github.io/reading-notes/class-01.html)
-2. [Day 2 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
+2. [HTML Text, CSS Intro, and Basic JavaScript](https://chrisrarig1.github.io/reading-notes/class-02.html)
 3. [Day 3 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
 4. [Day 4 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
 5. [Day 5 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
