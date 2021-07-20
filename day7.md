@@ -8,7 +8,7 @@
 
 ## What makes up a function
 
-- A *Function* is made up of three parts:
+- A *Function* is made up of four parts:
     1. The name of the function
     2. The parameters of the function
     3. The JavaScript that the function performs
