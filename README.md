@@ -4,7 +4,7 @@
 
 [Github Profile](https://github.com/chrisrarig1)
 
-- On this page, I will be posting my reading notes as I progress through my eductaion at *Code Fellows*.
+- On this page, I will be posting my reading notes as I progress through my education at *Code Fellows*.
 
 # Code 102 Reading Notes
 
@@ -20,7 +20,7 @@
 2. [HTML Text, CSS Intro, and Basic JavaScript](https://chrisrarig1.github.io/reading-notes/class-02.html)
 3. [HTML Lists, CSS Box Model, and JS Control Flow](https://chrisrarig1.github.io/reading-notes/class-03.html)
 4. [HTML Links, CSS Layout,and JS Functions](https://chrisrarig1.github.io/reading-notes/class-04.html)
-5. [Day 5 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
+5. [CSS: Images, Color, and Text](https://chrisrarig1.github.io/reading-notes/class-05.html)
 6. [Day 6 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
 7. [Day 7 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
 8. [Day 8 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
