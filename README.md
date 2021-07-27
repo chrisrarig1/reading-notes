@@ -21,7 +21,7 @@
 3. [HTML Lists, CSS Box Model, and JS Control Flow](https://chrisrarig1.github.io/reading-notes/class-03.html)
 4. [HTML Links, CSS Layout,and JS Functions](https://chrisrarig1.github.io/reading-notes/class-04.html)
 5. [CSS: Images, Color, and Text](https://chrisrarig1.github.io/reading-notes/class-05.html)
-6. [Day 6 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
+6. [Problem Domain, Object Literals, and Document Object Model](https://chrisrarig1.github.io/reading-notes/class-06.html)
 7. [Day 7 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
 8. [Day 8 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
 9. [Day 9 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
