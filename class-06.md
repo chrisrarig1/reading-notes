@@ -13,7 +13,7 @@
 
 - **Objects** are labeled as variables, but are groups of functions and variables. In **Objects** `var dogs =` functions become known as **Methods** `timetoplay` and variables become known as **Properties** `name,toy,food`
 
-    ```json 
+```js
     
     var dogs = {
         name : Lana,
@@ -23,5 +23,6 @@
         timetoplay: function(){
             return timeofday;
         }
+```
 
 - To access anything from an object throughout your code you can call it using `Object_Name.property_or_method;`.
