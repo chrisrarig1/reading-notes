@@ -24,7 +24,7 @@
 6. [Problem Domain, Object Literals, and Document Object Model](https://chrisrarig1.github.io/reading-notes/class-06.html)
 7. [Object-Oriented Programming and HTML Tables](https://chrisrarig1.github.io/reading-notes/class-07.html)
 8. [CSS/HTML Layout](https://chrisrarig1.github.io/reading-notes/class-08.html)
-9. [Day 9 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
+9. [Forms & JS Events](https://chrisrarig1.github.io/reading-notes/class-09.html)
 10. [Day 10 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
 11. [Day 11 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
 12. [Day 12 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
