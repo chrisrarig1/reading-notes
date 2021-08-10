@@ -25,7 +25,7 @@
 7. [Object-Oriented Programming and HTML Tables](https://chrisrarig1.github.io/reading-notes/class-07.html)
 8. [CSS/HTML Layout](https://chrisrarig1.github.io/reading-notes/class-08.html)
 9. [Forms & JS Events](https://chrisrarig1.github.io/reading-notes/class-09.html)
-10. [Day 10 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
+10. [Debugging](https://chrisrarig1.github.io/reading-notes/class-10.html)
 11. [Day 11 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
 12. [Day 12 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
 13. [Day 13 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
