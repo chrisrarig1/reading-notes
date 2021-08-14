@@ -26,7 +26,7 @@
 8. [CSS/HTML Layout](https://chrisrarig1.github.io/reading-notes/class-08.html)
 9. [Forms & JS Events](https://chrisrarig1.github.io/reading-notes/class-09.html)
 10. [Debugging](https://chrisrarig1.github.io/reading-notes/class-10.html)
-11. [Day 11 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
+11. [Images and Information](https://chrisrarig1.github.io/reading-notes/class-11.html)
 12. [Day 12 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
 13. [Day 13 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
 14. [Day 14 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
