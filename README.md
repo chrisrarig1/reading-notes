@@ -28,7 +28,7 @@
 10. [Debugging](https://chrisrarig1.github.io/reading-notes/class-10.html)
 11. [Images and Information](https://chrisrarig1.github.io/reading-notes/class-11.html)
 12. [Element & Chart.JS](https://chrisrarig1.github.io/reading-notes/class-12.html)
-13. [Day 13 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
+13. [Local Storage](https://chrisrarig1.github.io/reading-notes/class-13.html)
 14. [Day 14 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
 15. [Day 15 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
 
