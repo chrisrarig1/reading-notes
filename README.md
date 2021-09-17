@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 - Hi!! My name is Chris Rarig and I am a student at Code Fellows seeking to become a Software Engineer. Currently I am a Senior Mortgage Data Specialist for Zillow in Lincoln, NE. I am looking forward to learning new code and developing the skills to succeed!!!
 
@@ -6,7 +6,7 @@
 
 - On this page, I will be posting my reading notes as I progress through my education at *Code Fellows*.
 
-# Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 1. [Mastering Markdown](https://chrisrarig1.github.io/reading-notes/day1.html)
 2. [Text Editors](https://chrisrarig1.github.io/reading-notes/day2.html)
@@ -14,7 +14,7 @@
 4. [HTML](https://chrisrarig1.github.io/reading-notes/day4.html)
 5. [CSS](https://chrisrarig1.github.io/reading-notes/day5.html)
 
-# Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 1. [Introductory HTML and JavaScript](https://chrisrarig1.github.io/reading-notes/class-01.html)
 2. [HTML Text, CSS Intro, and Basic JavaScript](https://chrisrarig1.github.io/reading-notes/class-02.html)
@@ -31,6 +31,8 @@
 13. [Local Storage](https://chrisrarig1.github.io/reading-notes/class-13.html)
 14. [Day 14 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
 15. [Day 15 Notes](https://chrisrarig1.github.io/reading-notes/day1.html)
+
+## Code 301 - Intermediate Software Development
 
 More pages to come
 
