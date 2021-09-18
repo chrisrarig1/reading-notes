@@ -34,6 +34,8 @@
 
 ## Code 301 - Intermediate Software Development
 
+1. [Introduction to React and Components](https://chrisrarig1.github.io/reading-notes/reading-01.html)
+
 More pages to come
 
 ![work](https://www.seekpng.com/png/detail/137-1379498_work-in-progress.png)
