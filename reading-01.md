@@ -38,6 +38,10 @@
 - Props have **uni-directional flow** meaning it is one way from parent component to the child component.
 - They are intended to be read only
 
+## Things I want to know more about
+
+- How components are used in applications I use on a daily basis
+
 # Useful Links
 
 - [Components](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
