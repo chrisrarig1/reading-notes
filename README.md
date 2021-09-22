@@ -35,6 +35,7 @@
 ## Code 301 - Intermediate Software Development
 
 1. [Introduction to React and Components](https://chrisrarig1.github.io/reading-notes/reading-01.html)
+2. [States and Props](https://chrisrarig1.github.io/reading-notes/reading-02.html)
 
 More pages to come
 
