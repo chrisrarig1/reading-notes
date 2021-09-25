@@ -77,6 +77,10 @@
 
     - By calling it like a typical function using this.props.
 
+## Things I want to know more about
+
+- I would like to see and know more about how much this can be utilized
+
 # Useful Links
 
 - [How to Pass Functions between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
