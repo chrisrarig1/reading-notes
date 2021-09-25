@@ -30,18 +30,18 @@
 
 3. Give an example of using the spread operator to combine two arrays.
 
-```json
+```js
 {
-    `let array = [1,2,3];`
-    `let array2 = [4,5,6];`
-    `arr = [...array,...array2];`
-    `[1,2,3,4,5,6]`
+    let array = [1,2,3];
+    let array2 = [4,5,6];
+    arr = [...array,...array2];
+    [1,2,3,4,5,6]
 }
 ```
 
 4. Give an example of using the spread operator to add a new item to an array.
 
-```json
+```js
 {
     let array =[1,2,3];
     let array2 =[4];
@@ -51,7 +51,7 @@
 
 5. Give an example of using the spread operator to combine two objects into one.
 
-```json
+```js
 {
     let array ={hi:"Bob"}
     let array2 = {bye:"Ted"}
