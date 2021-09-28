@@ -37,6 +37,7 @@
 1. [Introduction to React and Components](https://chrisrarig1.github.io/reading-notes/reading-01.html)
 2. [States and Props](https://chrisrarig1.github.io/reading-notes/reading-02.html)
 3. [Passing Functions as Props](https://chrisrarig1.github.io/reading-notes/reading-03.html)
+4. [React and Forms](https://chrisrarig1.github.io/reading-notes/reading-04.html)
 
 More pages to come
 
