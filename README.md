@@ -40,6 +40,7 @@
 4. [React and Forms](https://chrisrarig1.github.io/reading-notes/reading-04.html)
 5. [Putting it all together](https://chrisrarig1.github.io/reading-notes/reading-05.html)
 6. [Node.JS](https://chrisrarig1.github.io/reading-notes/reading-06.html)
+7. [REST](https://chrisrarig1.github.io/reading-notes/reading-07.html)
 
 More pages to come
 
