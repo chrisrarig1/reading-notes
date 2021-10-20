@@ -43,6 +43,7 @@
 7. [REST](https://chrisrarig1.github.io/reading-notes/reading-07.html)
 8. [APIs](https://chrisrarig1.github.io/reading-notes/reading-08.html)
 9. [Functional Programming](https://chrisrarig1.github.io/reading-notes/reading-09.html)
+10. [Functional Programming](https://chrisrarig1.github.io/reading-notes/reading-10.html)
 
 More pages to come
 
