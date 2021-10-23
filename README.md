@@ -44,6 +44,7 @@
 8. [APIs](https://chrisrarig1.github.io/reading-notes/reading-08.html)
 9. [Functional Programming](https://chrisrarig1.github.io/reading-notes/reading-09.html)
 10. [Stacks/Errors](https://chrisrarig1.github.io/reading-notes/reading-10.html)
+11. [Mongo and Mongoose](https://chrisrarig1.github.io/reading-notes/reading-11.html)
 
 More pages to come
 
