@@ -27,6 +27,42 @@
 
     - 403 - No permission
 
+# Rest API
+
+1. Why do we need to pull our MongoDB database string out of our server and put it into our .env?
+
+    - Because when we deploy we will want to use something other than our local server
+
+2. What is middleware?
+
+    - Code that runs when a server gets a request but before its passed to the route
+
+3. What does app.use(express.json()) do?
+
+    - Allows the server to accept json
+
+4. What does the /:id mean in a route?
+
+    - It is a parameter.
+
+5. What is the difference beween PUT and PATCH?
+
+    - Patch only updates what the user passes
+    - Put updates all the information
+
+6. How do you make a default value in a schema?
+
+    - By typing default:
+
+7. What does a 500 error status code mean?
+
+    - Internal server error
+
+8. What is the difference between a status 200 and a status 201?
+
+    - 200: Request was received and understood and is being processed
+    - 201: Request was successful and resulted in a resource being created
+
 ## Things I want to know more about
 
 - I am wondering if these codes will be implemented the same way we have been throwing errors in our code already.
@@ -34,3 +70,4 @@
 # Useful Links
 
 - [Status Codes](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
+- [REST](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
