@@ -46,6 +46,7 @@
 10. [Stacks/Errors](https://chrisrarig1.github.io/reading-notes/reading-10.html)
 11. [Mongo and Mongoose](https://chrisrarig1.github.io/reading-notes/reading-11.html)
 12. [CRUD](https://chrisrarig1.github.io/reading-notes/reading-12.html)
+13. [Diversity & Inclusion in the Tech Industry](https://chrisrarig1.github.io/reading-notes/reading-13.html)
 
 More pages to come
 
