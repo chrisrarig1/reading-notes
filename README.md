@@ -51,6 +51,8 @@
 
 ## Code 401 - Advanced Software Development in Python
 
+1. [Class-01](https://chrisrarig1.github.io/reading-notes/read-01.html)
+
 More pages to come
 
 ![work](https://www.seekpng.com/png/detail/137-1379498_work-in-progress.png)
