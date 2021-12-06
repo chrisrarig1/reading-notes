@@ -51,7 +51,8 @@
 
 ## Code 401 - Advanced Software Development in Python
 
-1. [Class-01](https://chrisrarig1.github.io/reading-notes/read-01.html)
+1. [Prepping My Mindset](https://chrisrarig1.github.io/reading-notes/Growth-Mindset.html)
+2. [Class-01](https://chrisrarig1.github.io/reading-notes/read-01.html)
 
 More pages to come
 

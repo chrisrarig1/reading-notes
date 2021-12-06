@@ -44,4 +44,4 @@
 - [Pain vs Suffering](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering)
 - [Big O](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
 - [Intro to Big O](https://www.codenewbie.org/basecs/8)
--[Names and Values in Python](https://www.youtube.com/watch?v=_AEJHKGk9ns)
+- [Names and Values in Python](https://www.youtube.com/watch?v=_AEJHKGk9ns)
