@@ -53,6 +53,7 @@
 
 1. [Prepping My Mindset](https://chrisrarig1.github.io/reading-notes/Growth-Mindset.html)
 2. [Class-01](https://chrisrarig1.github.io/reading-notes/read-01.html)
+3. [Class-02: Testing and Modules](https://chrisrarig1.github.io/reading-notes/read-02.html)
 
 More pages to come
 
