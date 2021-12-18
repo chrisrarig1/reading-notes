@@ -56,6 +56,7 @@
 3. [Class-02: Testing and Modules](https://chrisrarig1.github.io/reading-notes/read-02.html)
 4. [Class-03: File IO & Exceptions](https://chrisrarig1.github.io/reading-notes/read-03.html)
 5. [Class-04](https://chrisrarig1.github.io/reading-notes/read-04.html)
+6. [Class-05: Linked Lists](https://chrisrarig1.github.io/reading-notes/read-05.html)
 
 More pages to come
 
