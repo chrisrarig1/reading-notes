@@ -58,6 +58,7 @@
 5. [Class-04](https://chrisrarig1.github.io/reading-notes/read-04.html)
 6. [Class-05: Linked Lists](https://chrisrarig1.github.io/reading-notes/read-05.html)
 7. [Class-06: Game of Greed](https://chrisrarig1.github.io/reading-notes/read-06.html)
+8. [Class-08: Game of Greed 2](https://chrisrarig1.github.io/reading-notes/read-07.html)
 
 More pages to come
 
