@@ -60,6 +60,7 @@
 7. [Class-06: Game of Greed](https://chrisrarig1.github.io/reading-notes/read-06.html)
 8. [Class-07: Game of Greed 2](https://chrisrarig1.github.io/reading-notes/read-07.html)
 9. [Class-08: Game of Greed 3](https://chrisrarig1.github.io/reading-notes/read-08.html)
+10. [Class-09: Game of Greed 4](https://chrisrarig1.github.io/reading-notes/read-09.html)
 
 More pages to come
 
