@@ -63,6 +63,7 @@
 10. [Class-09: Game of Greed 4](https://chrisrarig1.github.io/reading-notes/read-09.html)
 11. [Class-10: Stacks and Queues](https://chrisrarig1.github.io/reading-notes/read-10.html)
 12. [Class-11: Data Analysis](https://chrisrarig1.github.io/reading-notes/read-11.html)
+13. [Class-12: Pandas](https://chrisrarig1.github.io/reading-notes/read-12.html)
 
 More pages to come
 
