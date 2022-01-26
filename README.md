@@ -65,6 +65,7 @@
 12. [Class-11: Data Analysis](https://chrisrarig1.github.io/reading-notes/read-11.html)
 13. [Class-12: Pandas](https://chrisrarig1.github.io/reading-notes/read-12.html)
 14. [Class-13: Linear Regressions](https://chrisrarig1.github.io/reading-notes/read-13.html)
+15. [Class-14: Matplotlib](https://chrisrarig1.github.io/reading-notes/read-14.html)
 
 More pages to come
 
