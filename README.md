@@ -67,6 +67,7 @@
 14. [Class-13: Linear Regressions](https://chrisrarig1.github.io/reading-notes/read-13.html)
 15. [Class-14: Matplotlib](https://chrisrarig1.github.io/reading-notes/read-14.html)
 16. [Class-15: Trees](https://chrisrarig1.github.io/reading-notes/read-15.html)
+17. [Class-16: Serverless](https://chrisrarig1.github.io/reading-notes/read-16.html)
 
 More pages to come
 
