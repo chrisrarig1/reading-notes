@@ -68,6 +68,7 @@
 15. [Class-14: Matplotlib](https://chrisrarig1.github.io/reading-notes/read-14.html)
 16. [Class-15: Trees](https://chrisrarig1.github.io/reading-notes/read-15.html)
 17. [Class-16: Serverless](https://chrisrarig1.github.io/reading-notes/read-16.html)
+18. [Class-16: Web Scraping](https://chrisrarig1.github.io/reading-notes/read-17.html)
 
 More pages to come
 
