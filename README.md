@@ -69,6 +69,7 @@
 16. [Class-15: Trees](https://chrisrarig1.github.io/reading-notes/read-15.html)
 17. [Class-16: Serverless](https://chrisrarig1.github.io/reading-notes/read-16.html)
 18. [Class-17: Web Scraping](https://chrisrarig1.github.io/reading-notes/read-17.html)
+19. [Class-18: Web Scraping](https://chrisrarig1.github.io/reading-notes/read-18.html)
 
 More pages to come
 
