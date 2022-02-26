@@ -46,7 +46,7 @@
   - `admin.site.register(name)`
 
 - Internationalization
-  - Django offers full support for translating text into different languages, formatted dates, times, numbers, and time zones.
+  - *Django* offers full support for translating text into different languages, formatted dates, times, numbers, and time zones.
 
 # Useful Links
 
