@@ -2,7 +2,7 @@
 
 ## What is Django?
 
-- Django is a open sourced Python-based web framework
+- *Django* is a open sourced Python-based web framework
 
 - First and foremost you need to install *Django*:
   - `python -m pip install Django`
