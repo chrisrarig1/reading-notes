@@ -71,6 +71,7 @@
 18. [Class-17: Web Scraping](https://chrisrarig1.github.io/reading-notes/read-17.html)
 19. [Class-18: Crypto](https://chrisrarig1.github.io/reading-notes/read-18.html)
 20. [Class-19: Automation](https://chrisrarig1.github.io/reading-notes/read-19.html)
+21. [Class-20: Django](https://chrisrarig1.github.io/reading-notes/read-20.html)
 
 More pages to come
 
