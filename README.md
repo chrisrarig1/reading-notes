@@ -72,6 +72,7 @@
 19. [Class-18: Crypto](https://chrisrarig1.github.io/reading-notes/read-18.html)
 20. [Class-19: Automation](https://chrisrarig1.github.io/reading-notes/read-19.html)
 21. [Class-20: Django](https://chrisrarig1.github.io/reading-notes/read-20.html)
+22. [Class-20: Django Models](https://chrisrarig1.github.io/reading-notes/read-21.html)
 
 More pages to come
 
