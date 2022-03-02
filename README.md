@@ -74,6 +74,7 @@
 21. [Class-20: Django](https://chrisrarig1.github.io/reading-notes/read-20.html)
 22. [Class-20: Django Models](https://chrisrarig1.github.io/reading-notes/read-21.html)
 
+
 More pages to come
 
 ![work](https://www.seekpng.com/png/detail/137-1379498_work-in-progress.png)
