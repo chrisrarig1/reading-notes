@@ -73,8 +73,10 @@
 20. [Class-19: Automation](https://chrisrarig1.github.io/reading-notes/read-19.html)
 21. [Class-20: Django](https://chrisrarig1.github.io/reading-notes/read-20.html)
 22. [Class-21: Django Models](https://chrisrarig1.github.io/reading-notes/read-21.html)
-22. [Class-22: Django Forms](https://chrisrarig1.github.io/reading-notes/read-22.html)
+23. [Class-22: Django Forms](https://chrisrarig1.github.io/reading-notes/read-22.html)
+24. [Class-23: Django Best Practices](https://chrisrarig1.github.io/reading-notes/read-23.html)
 
-More pages to come
+More pages to come'
+
 
 ![work](https://www.seekpng.com/png/detail/137-1379498_work-in-progress.png)
