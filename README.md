@@ -75,6 +75,7 @@
 22. [Class-21: Django Models](https://chrisrarig1.github.io/reading-notes/read-21.html)
 23. [Class-22: Django Forms](https://chrisrarig1.github.io/reading-notes/read-22.html)
 24. [Class-23: Django Best Practices](https://chrisrarig1.github.io/reading-notes/read-23.html)
+25. [Class-24: Hashtables](https://chrisrarig1.github.io/reading-notes/read-24.html)
 
 More pages to come'
 
