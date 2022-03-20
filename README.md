@@ -77,6 +77,7 @@
 24. [Class-23: Django Best Practices](https://chrisrarig1.github.io/reading-notes/read-23.html)
 25. [Class-24: Hashtables](https://chrisrarig1.github.io/reading-notes/read-24.html)
 26. [Class-25: Docker](https://chrisrarig1.github.io/reading-notes/read-25.html)
+27. [Class-26: Permissions](https://chrisrarig1.github.io/reading-notes/read-26.html)
 
 More pages to come'
 
