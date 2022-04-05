@@ -81,6 +81,7 @@
 28. [Class-27: Authentication & Production Server](https://chrisrarig1.github.io/reading-notes/read-27.html)
 29. [Class-28: API Deployment](https://chrisrarig1.github.io/reading-notes/read-28.html)
 30. [Class-29: Graphs](https://chrisrarig1.github.io/reading-notes/read-29.html)
+31. [React 1](https://chrisrarig1.github.io/reading-notes/read-31.html)
 
 More pages to come'
 
