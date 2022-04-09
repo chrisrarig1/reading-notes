@@ -82,8 +82,8 @@
 29. [Class-28: API Deployment](https://chrisrarig1.github.io/reading-notes/read-28.html)
 30. [Class-29: Graphs](https://chrisrarig1.github.io/reading-notes/read-29.html)
 31. [React 1](https://chrisrarig1.github.io/reading-notes/read-31.html)
+32. [React 2](https://chrisrarig1.github.io/reading-notes/read-32.html)
 
 More pages to come'
-
 
 ![work](https://www.seekpng.com/png/detail/137-1379498_work-in-progress.png)
