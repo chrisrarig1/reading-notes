@@ -83,6 +83,7 @@
 30. [Class-29: Graphs](https://chrisrarig1.github.io/reading-notes/read-29.html)
 31. [React 1](https://chrisrarig1.github.io/reading-notes/read-31.html)
 32. [React 2](https://chrisrarig1.github.io/reading-notes/read-32.html)
+33. [React 3](https://chrisrarig1.github.io/reading-notes/read-33.html)
 
 More pages to come'
 
