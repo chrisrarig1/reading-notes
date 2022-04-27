@@ -1,0 +1,3 @@
+# Next.js
+
+## Dynamic Routes
