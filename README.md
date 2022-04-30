@@ -85,6 +85,7 @@
 32. [React 2](https://chrisrarig1.github.io/reading-notes/read-32.html)
 33. [React 3](https://chrisrarig1.github.io/reading-notes/read-33.html)
 34. [Pythonisms](https://chrisrarig1.github.io/reading-notes/read-35.html)
+35. [Ethics](https://chrisrarig1.github.io/reading-notes/read-36.html)
 
 More pages to come'
 
